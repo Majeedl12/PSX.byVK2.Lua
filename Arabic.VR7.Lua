@@ -183,7 +183,7 @@ end
 })
 
 Tab:AddButton({
-	Name = "اعاده الانتشار | Sc",
+	Name = "استخدم ذا الزر لو ما اشتغل الكشف | Sc",
 	Callback = function()
 	loadstring(game:HttpGet("https://pastebin.com/raw/SH7SwQvy"))()
 end
